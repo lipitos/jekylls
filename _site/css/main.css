@@ -148,16 +148,10 @@ pre {
  * Site header
  */
 .site-header {
-  padding: 100px 0;
-  text-align: center;
-  background-color: #eee;
-  border-bottom: 2px solid #ddd;
-}
-
-.site-header .h1{
-  font-weight: bold;
-  font-size: 50px;
-}
+  border-top: 5px solid #424242;
+  border-bottom: 1px solid #e8e8e8;
+  min-height: 56px;
+  position: relative; }
 
 .site-title {
   font-size: 26px;
